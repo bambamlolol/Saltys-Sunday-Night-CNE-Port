@@ -1,0 +1,19 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 190,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -7376387,
+	"displayName": "terminal",
+	"icon": "spirit",
+	"name": "terminal",
+	"color": "#8F71FD",
+	"customValues": {}
+}

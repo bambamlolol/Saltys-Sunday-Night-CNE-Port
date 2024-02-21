@@ -1,0 +1,19 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 185,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -7572995,
+	"displayName": "Sweet-n-Spooky",
+	"icon": "spooky",
+	"name": "Sweet-n-Spooky",
+	"color": "#8C71FD",
+	"customValues": {}
+}

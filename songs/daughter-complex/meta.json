@@ -1,0 +1,19 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -7376387,
+	"displayName": "daughter-complex",
+	"icon": "dad",
+	"name": "daughter-complex",
+	"color": "#8F71FD",
+	"customValues": {}
+}

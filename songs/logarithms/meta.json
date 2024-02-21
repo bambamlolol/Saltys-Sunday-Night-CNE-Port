@@ -1,0 +1,19 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 150,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -7572995,
+	"displayName": "logarithms",
+	"icon": "senpai",
+	"name": "logarithms",
+	"color": "#8C71FD",
+	"customValues": {}
+}
